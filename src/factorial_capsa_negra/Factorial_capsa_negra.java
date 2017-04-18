@@ -10,6 +10,6 @@ public class Factorial_capsa_negra {
     }
 
     public static void main(String[] args){
-        System.out.println(factorial(3));
+        System.out.println(factorial(5));
     }
 }
